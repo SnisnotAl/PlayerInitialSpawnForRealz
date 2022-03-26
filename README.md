@@ -20,7 +20,7 @@ end)
 ```lua
 Functions:
   - player:HasSpawnedForRealz()
-  - Returns boolean
+    > Returns boolean
 
   Hooks:
     - PlayerInitialSpawnForRealz( player ply, boolean transition )
