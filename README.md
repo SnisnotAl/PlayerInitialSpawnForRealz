@@ -1,6 +1,7 @@
 # PlayerInitialSpawnForRealz
 Mainly created as a way to tell if a client is fully connected
-serverside, without the use of the net library
+serverside, without the use of the net library, ironically
+so you can send net messages to the client reliably, unlike with PlayerInitialSpawn
 
 This idea was inspired by the warning example code on
 https://wiki.facepunch.com/gmod/GM:PlayerInitialSpawn
